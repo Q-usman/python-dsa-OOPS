@@ -1,0 +1,18 @@
+dictionay
+you cant acces the dictionay using index, instead u need key
+dictionay are mutables
+dict values can be another dictionay
+
+sets
+both set and dictionay can be difine using curly braces
+we need to use set constructor to create and empyt set
+sets dont take any duplicate values
+
+sets are unordered
+that mean :
+    s = {1,2,3,4}
+    s1 = {2,3,1,4}
+    here s==s1 is True
+
+stack :
+last in first out
